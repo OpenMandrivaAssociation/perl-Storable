@@ -1,9 +1,9 @@
 %define upstream_name    Storable
-%define upstream_version 2.25
+%define upstream_version 2.29
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
-Release:    %mkrel 2
+Release:    %mkrel 1
 
 Summary:    Persistent data structure mechanism
 License:    GPL+ or Artistic
