@@ -1,5 +1,5 @@
 %define upstream_name    Storable
-%define upstream_version 2.29
+%define upstream_version 2.30
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
