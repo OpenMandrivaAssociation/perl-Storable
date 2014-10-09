@@ -1,10 +1,10 @@
 %define modname	Storable
-%define modver	2.30
+%define modver	2.51
 
 Summary:	Persistent data structure mechanism
 Name:		perl-%{modname}
 Version:	%perl_convert_version %{modver}
-Release:	11
+Release:	1
 License:	GPLv2+ or Artistic
 Group:		Development/Perl
 Url:		http://search.cpan.org/dist/%{modname}

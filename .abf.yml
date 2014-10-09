@@ -1,2 +1,4 @@
+removed_sources:
+  Storable-2.30.tar.gz: 1247957ea67a113adb814a18adfe0a7ecf825bb1
 sources:
-  "Storable-2.30.tar.gz": 1247957ea67a113adb814a18adfe0a7ecf825bb1
+  Storable-2.51.tar.gz: 3ccd6ac2b898aa589ac5c6dd73d6b600f5192a47
